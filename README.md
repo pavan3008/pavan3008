@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pavan3008
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning AI And HCI
-- 💞️ I’m looking to collaborate on AI/HCI related projects
+- 🌱 I’m currently learning SE And HCI
+- 💞️ I’m looking to collaborate on SE/HCI related projects
 - ⚖️ Live. Chill. Code. Travel.
 
 <!---
