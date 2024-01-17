@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pavan3008
+- 👋 Hi, I’m Pavan
 - 👀 Interested in Computer Science
 - ⚖️ Live. Chill. Code. Travel.
 
